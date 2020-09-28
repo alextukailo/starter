@@ -1,0 +1,8 @@
+:root {
+    --colorGrey: #cecece;
+    --mainWidth: 800px;
+}
+
+@custom-media --mobile-screen (width <= 537px);
+@custom-media --laptop-screen (width <= 768px);
+@custom-media --desctop-screen (width <= 1200px);

@@ -1,6 +1,13 @@
 .section {
 
     &__heading {
-        color: pink;
+        width: cacl(var(--mainWidth)/3);
+        color: var(--colorGrey);
+    }
+}
+
+@media (--mobile-screen) {
+    body {
+        background-color: red;
     }
 }

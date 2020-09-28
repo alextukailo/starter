@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"css/app.css","sourceRoot":""}
+{"version":3,"sources":["webpack:///scss/components/_header.scss"],"names":[],"mappings":"AAEI,kBACI,mBAA+B,CAC/B,aAAuB,CAI/B,yBACI,KACI,oBAAqB,CACxB,C","file":"css/app.css","sourcesContent":[".section {\n\n    &__heading {\n        width: cacl(var(--mainWidth)/3);\n        color: var(--colorGrey);\n    }\n}\n\n@media (--mobile-screen) {\n    body {\n        background-color: red;\n    }\n}"],"sourceRoot":""}
