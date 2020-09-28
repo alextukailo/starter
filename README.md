@@ -1,3 +1,3 @@
 # starter
 
-webpack starter pack with js, css to scss compilation via postcss plugins
+webpack starter pack with js, scss to css compilation via postcss plugins
