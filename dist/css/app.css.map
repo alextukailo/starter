@@ -1,1 +1,1 @@
-{"version":3,"sources":["webpack:///scss/app.scss"],"names":[],"mappings":"AAAA,KACI,eAAmB,CACnB,UAAW,CAGf,mBACI,aAAyB,CAD7B,uBACI,aAAyB,CAD7B,cACI,aAAyB,CAQ7B,SACI,SAAU,C","file":"css/app.css","sourcesContent":["body {\n    background: #ffffff;\n    color: blue;\n}\n//dfdfdfdfdf\n::placeholder {\n    color: rgb(148, 148, 148);\n}\nh1 {\n    color: red;\n}\nh2 {\n    color: red;\n}\nh3 {\n    color: red;\n}"],"sourceRoot":""}
+{"version":3,"sources":[],"names":[],"mappings":"","file":"css/app.css","sourceRoot":""}

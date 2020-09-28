@@ -1,17 +1,13 @@
-body {
-    background: #ffffff;
-    color: blue;
-}
-//dfdfdfdfdf
-::placeholder {
-    color: rgb(148, 148, 148);
-}
-h1 {
-    color: red;
-}
-h2 {
-    color: red;
-}
-h3 {
-    color: red;
-}
+//base
+@import "./base/general";
+@import "./base/typography";
+@import "./base/variables";
+
+//modules
+@import "./modules/buttons";
+@import "./mixins/mixins";
+@import "./modules/modifiers";
+
+//components
+// @import "./components/header";
+// @import "./components/hero";
