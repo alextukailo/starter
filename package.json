@@ -21,6 +21,7 @@
     "postcss": "^8.1.0",
     "postcss-cli": "^8.0.0",
     "postcss-loader": "^4.0.2",
+    "postcss-nested": "^5.0.1",
     "sass-loader": "^10.0.2",
     "style-loader": "^1.2.1",
     "webpack": "^4.44.2",
